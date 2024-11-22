@@ -1,8 +1,8 @@
 export default function Alteracao()
 {
-    return(
+    return (
         <div>
-            <h1>Alteração de alunos</h1>
+            <h1>Alteração de Alunos</h1>
         </div>
     );
 }
